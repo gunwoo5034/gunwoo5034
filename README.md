@@ -6,6 +6,8 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Conda-Forge&logoColor=white" />
 <!--
 **gunwoo5034/gunwoo5034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
