@@ -2,6 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Gunwoo's%20Github&section=header&fontColor=15" />	
 
 </div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
 <!--
 **gunwoo5034/gunwoo5034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
