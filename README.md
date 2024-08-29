@@ -8,6 +8,7 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
 <!--
 **gunwoo5034/gunwoo5034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
